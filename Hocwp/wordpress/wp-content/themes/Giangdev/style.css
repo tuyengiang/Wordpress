@@ -1,0 +1,17 @@
+/*
+	* Theme Name: Tuyển giảng theme
+	* Decription: Là một theme thiết kế đầu tay
+	* Theme URI: uneti.ga
+	* Theme Author:Tuyển giảng
+	* tags:tuyengiag theme
+	* Version:1.0
+	* testdomain:Tuyen giang
+ */
+*{
+	margin:0;padding:0;
+	font-family:roboto,arial;
+}
+body{
+	width:90%;
+	margin:auto;
+}
